@@ -1,13 +1,13 @@
-Machine Learning CW 2 - Neural Networks
+Machine Learning - Neural Networks
 ===========================
 This repository contains a python implementation of the Neural Networks coursework for the "Introduction to Machine Learning" Autumn module. It consists of a neural network mini-library and a neural network trained on the California House Prices Dataset to predict housing prices for a given datapoint.
 
 Contributors
 ------------
-- Shaheen Amin (sa2920)
-- Shaanuka Gunaratne (sg1920)
-- Indraneel Dulange (ikd120)
-- Omar Zeidan (oz20)
+- Shaheen Amin
+- Shaanuka Gunaratne
+- Indraneel Dulange
+- Omar Zeidan 
 
 Overview
 --------
